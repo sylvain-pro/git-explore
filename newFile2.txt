@@ -1,0 +1,4 @@
+salud
+ola
+bonjour
+hello
